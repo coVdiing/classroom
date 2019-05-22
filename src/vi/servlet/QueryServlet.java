@@ -24,13 +24,13 @@ import vi.util.ResultSetTool;
  * Servlet implementation class Servlet1
  */
 @WebServlet("/query")
-public class Servlet1 extends HttpServlet {
+public class QueryServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor.
 	 */
-	public Servlet1() {
+	public QueryServlet() {
 		// TODO Auto-generated constructor stub
 	}
 

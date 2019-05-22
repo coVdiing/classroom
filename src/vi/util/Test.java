@@ -1,4 +1,4 @@
-package vi.dao;
+package vi.util;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 import vi.util.DButil;
-
+//测试用小工具类
 public class Test {
 
 	public static void main(String[] args) {
